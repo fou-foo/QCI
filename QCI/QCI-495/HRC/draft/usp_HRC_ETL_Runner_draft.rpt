@@ -1,0 +1,554 @@
+﻿SQL Server parse and compile time: 
+   CPU time = 0 ms, elapsed time = 0 ms.
+
+ SQL Server Execution Times:
+   CPU time = 0 ms,  elapsed time = 0 ms.
+SQL Server parse and compile time: 
+   CPU time = 0 ms, elapsed time = 0 ms.
+
+ SQL Server Execution Times:
+   CPU time = 0 ms,  elapsed time = 0 ms.
+
+ SQL Server Execution Times:
+   CPU time = 0 ms,  elapsed time = 0 ms.
+
+ SQL Server Execution Times:
+   CPU time = 0 ms,  elapsed time = 0 ms.
+
+ SQL Server Execution Times:
+   CPU time = 16 ms,  elapsed time = 9 ms.
+
+(1 row affected)
+
+
+(1 row affected)
+
+ SQL Server Execution Times:
+   CPU time = 0 ms,  elapsed time = 6 ms.
+
+ SQL Server Execution Times:
+   CPU time = 0 ms,  elapsed time = 0 ms.
+Table 'HRC_Dim_CMPEmployees_History'. Scan count 2, logical reads 3, physical reads 1, page server reads 0, read-ahead reads 0, page server read-ahead reads 0, lob logical reads 0, lob physical reads 0, lob page server reads 0, lob read-ahead reads 0, lob page server read-ahead reads 0.
+Table 'App_Casino'. Scan count 2, logical reads 3, physical reads 0, page server reads 0, read-ahead reads 0, page server read-ahead reads 0, lob logical reads 0, lob physical reads 0, lob page server reads 0, lob read-ahead reads 0, lob page server read-ahead reads 0.
+Table 'Worktable'. Scan count 0, logical reads 0, physical reads 0, page server reads 0, read-ahead reads 0, page server read-ahead reads 0, lob logical reads 0, lob physical reads 0, lob page server reads 0, lob read-ahead reads 0, lob page server read-ahead reads 0.
+Table 'Dim_Host_SCD'. Scan count 1, logical reads 13, physical reads 2, page server reads 0, read-ahead reads 0, page server read-ahead reads 0, lob logical reads 0, lob physical reads 0, lob page server reads 0, lob read-ahead reads 0, lob page server read-ahead reads 0.
+
+(0 rows affected)
+
+
+(1 row affected)
+
+ SQL Server Execution Times:
+   CPU time = 15 ms,  elapsed time = 13 ms.
+
+ SQL Server Execution Times:
+   CPU time = 0 ms,  elapsed time = 0 ms.
+SQL Server parse and compile time: 
+   CPU time = 0 ms, elapsed time = 2 ms.
+Table 'HRC_ETL_Runner_Tracker'. Scan count 0, logical reads 1, physical reads 0, page server reads 0, read-ahead reads 0, page server read-ahead reads 0, lob logical reads 0, lob physical reads 0, lob page server reads 0, lob read-ahead reads 0, lob page server read-ahead reads 0.
+Table 'Dim_Host_SCD'. Scan count 1, logical reads 13, physical reads 0, page server reads 0, read-ahead reads 0, page server read-ahead reads 0, lob logical reads 0, lob physical reads 0, lob page server reads 0, lob read-ahead reads 0, lob page server read-ahead reads 0.
+
+(1 row affected)
+
+
+(1 row affected)
+
+ SQL Server Execution Times:
+   CPU time = 0 ms,  elapsed time = 2 ms.
+
+ SQL Server Execution Times:
+   CPU time = 0 ms,  elapsed time = 0 ms.
+Table 'HRC_Dim_MarketablePlayersAttribute'. Scan count 1, logical reads 0, physical reads 0, page server reads 0, read-ahead reads 0, page server read-ahead reads 0, lob logical reads 3649, lob physical reads 71, lob page server reads 0, lob read-ahead reads 2331, lob page server read-ahead reads 0.
+Table 'HRC_Dim_MarketablePlayersAttribute'. Segment reads 1, segment skipped 0.
+Table 'Worktable'. Scan count 2, logical reads 587648, physical reads 0, page server reads 0, read-ahead reads 0, page server read-ahead reads 0, lob logical reads 0, lob physical reads 0, lob page server reads 0, lob read-ahead reads 0, lob page server read-ahead reads 0.
+Table 'Dim_Player_SCD'. Scan count 2, logical reads 388068, physical reads 0, page server reads 0, read-ahead reads 226552, page server read-ahead reads 0, lob logical reads 0, lob physical reads 0, lob page server reads 0, lob read-ahead reads 0, lob page server read-ahead reads 0.
+Table 'Workfile'. Scan count 8, logical reads 3136, physical reads 0, page server reads 0, read-ahead reads 3136, page server read-ahead reads 0, lob logical reads 0, lob physical reads 0, lob page server reads 0, lob read-ahead reads 0, lob page server read-ahead reads 0.
+
+(0 rows affected)
+
+
+(1 row affected)
+
+ SQL Server Execution Times:
+   CPU time = 17250 ms,  elapsed time = 35637 ms.
+
+ SQL Server Execution Times:
+   CPU time = 0 ms,  elapsed time = 1 ms.
+SQL Server parse and compile time: 
+   CPU time = 0 ms, elapsed time = 4 ms.
+Table 'HRC_ETL_Runner_Tracker'. Scan count 0, logical reads 1, physical reads 0, page server reads 0, read-ahead reads 0, page server read-ahead reads 0, lob logical reads 0, lob physical reads 0, lob page server reads 0, lob read-ahead reads 0, lob page server read-ahead reads 0.
+Table 'Dim_Player_SCD'. Scan count 1, logical reads 992, physical reads 0, page server reads 0, read-ahead reads 0, page server read-ahead reads 0, lob logical reads 0, lob physical reads 0, lob page server reads 0, lob read-ahead reads 0, lob page server read-ahead reads 0.
+
+(1 row affected)
+
+
+(1 row affected)
+
+ SQL Server Execution Times:
+   CPU time = 32 ms,  elapsed time = 77 ms.
+
+ SQL Server Execution Times:
+   CPU time = 0 ms,  elapsed time = 0 ms.
+Table 'App_Casino'. Scan count 2, logical reads 3, physical reads 0, page server reads 0, read-ahead reads 0, page server read-ahead reads 0, lob logical reads 0, lob physical reads 0, lob page server reads 0, lob read-ahead reads 0, lob page server read-ahead reads 0.
+Table 'Worktable'. Scan count 0, logical reads 0, physical reads 0, page server reads 0, read-ahead reads 0, page server read-ahead reads 0, lob logical reads 0, lob physical reads 0, lob page server reads 0, lob read-ahead reads 0, lob page server read-ahead reads 0.
+Table 'Dim_PlayerDistanceToCasino_SCD'. Scan count 1, logical reads 201612, physical reads 735, page server reads 0, read-ahead reads 196143, page server read-ahead reads 0, lob logical reads 0, lob physical reads 0, lob page server reads 0, lob read-ahead reads 0, lob page server read-ahead reads 0.
+Table 'HRC_Dim_MarketablePlayersAttribute'. Scan count 1, logical reads 0, physical reads 0, page server reads 0, read-ahead reads 0, page server read-ahead reads 0, lob logical reads 137, lob physical reads 0, lob page server reads 0, lob read-ahead reads 0, lob page server read-ahead reads 0.
+Table 'HRC_Dim_MarketablePlayersAttribute'. Segment reads 1, segment skipped 0.
+
+(0 rows affected)
+
+
+(1 row affected)
+
+ SQL Server Execution Times:
+   CPU time = 52953 ms,  elapsed time = 322519 ms.
+
+ SQL Server Execution Times:
+   CPU time = 0 ms,  elapsed time = 1 ms.
+SQL Server parse and compile time: 
+   CPU time = 0 ms, elapsed time = 3 ms.
+Table 'HRC_ETL_Runner_Tracker'. Scan count 0, logical reads 1, physical reads 0, page server reads 0, read-ahead reads 0, page server read-ahead reads 0, lob logical reads 0, lob physical reads 0, lob page server reads 0, lob read-ahead reads 0, lob page server read-ahead reads 0.
+Table 'Dim_PlayerDistanceToCasino_SCD'. Scan count 1, logical reads 972, physical reads 0, page server reads 0, read-ahead reads 960, page server read-ahead reads 0, lob logical reads 0, lob physical reads 0, lob page server reads 0, lob read-ahead reads 0, lob page server read-ahead reads 0.
+
+(1 row affected)
+
+
+(1 row affected)
+
+ SQL Server Execution Times:
+   CPU time = 47 ms,  elapsed time = 88 ms.
+
+ SQL Server Execution Times:
+   CPU time = 0 ms,  elapsed time = 0 ms.
+Table 'HRC_Dim_MarketablePlayersAttribute'. Scan count 1, logical reads 0, physical reads 0, page server reads 0, read-ahead reads 0, page server read-ahead reads 0, lob logical reads 139, lob physical reads 4, lob page server reads 0, lob read-ahead reads 0, lob page server read-ahead reads 0.
+Table 'HRC_Dim_MarketablePlayersAttribute'. Segment reads 1, segment skipped 0.
+Table 'Worktable'. Scan count 0, logical reads 0, physical reads 0, page server reads 0, read-ahead reads 0, page server read-ahead reads 0, lob logical reads 0, lob physical reads 0, lob page server reads 0, lob read-ahead reads 0, lob page server read-ahead reads 0.
+Table 'Dim_PlayerLoyalty_SCD'. Scan count 1, logical reads 98144, physical reads 0, page server reads 0, read-ahead reads 93899, page server read-ahead reads 0, lob logical reads 0, lob physical reads 0, lob page server reads 0, lob read-ahead reads 0, lob page server read-ahead reads 0.
+
+(0 rows affected)
+
+
+(1 row affected)
+
+ SQL Server Execution Times:
+   CPU time = 20468 ms,  elapsed time = 100488 ms.
+
+ SQL Server Execution Times:
+   CPU time = 0 ms,  elapsed time = 1 ms.
+SQL Server parse and compile time: 
+   CPU time = 0 ms, elapsed time = 2 ms.
+Table 'HRC_ETL_Runner_Tracker'. Scan count 0, logical reads 1, physical reads 0, page server reads 0, read-ahead reads 0, page server read-ahead reads 0, lob logical reads 0, lob physical reads 0, lob page server reads 0, lob read-ahead reads 0, lob page server read-ahead reads 0.
+Table 'Dim_PlayerLoyalty_SCD'. Scan count 1, logical reads 991, physical reads 0, page server reads 0, read-ahead reads 979, page server read-ahead reads 0, lob logical reads 0, lob physical reads 0, lob page server reads 0, lob read-ahead reads 0, lob page server read-ahead reads 0.
+
+(1 row affected)
+
+
+(1 row affected)
+
+ SQL Server Execution Times:
+   CPU time = 32 ms,  elapsed time = 84 ms.
+
+ SQL Server Execution Times:
+   CPU time = 0 ms,  elapsed time = 0 ms.
+Table 'HRC_Fact_PlayerHostHistory_Secondary'. Scan count 2, logical reads 18, physical reads 2, page server reads 0, read-ahead reads 14, page server read-ahead reads 0, lob logical reads 0, lob physical reads 0, lob page server reads 0, lob read-ahead reads 0, lob page server read-ahead reads 0.
+Table 'App_Casino'. Scan count 4, logical reads 6, physical reads 0, page server reads 0, read-ahead reads 0, page server read-ahead reads 0, lob logical reads 0, lob physical reads 0, lob page server reads 0, lob read-ahead reads 0, lob page server read-ahead reads 0.
+Table 'HRC_Fact_PlayerHostHistory_Primary'. Scan count 2, logical reads 64, physical reads 2, page server reads 0, read-ahead reads 60, page server read-ahead reads 0, lob logical reads 0, lob physical reads 0, lob page server reads 0, lob read-ahead reads 0, lob page server read-ahead reads 0.
+Table 'Worktable'. Scan count 0, logical reads 0, physical reads 0, page server reads 0, read-ahead reads 0, page server read-ahead reads 0, lob logical reads 0, lob physical reads 0, lob page server reads 0, lob read-ahead reads 0, lob page server read-ahead reads 0.
+Table 'Dim_PlayerHost_SCD'. Scan count 1, logical reads 698, physical reads 0, page server reads 0, read-ahead reads 698, page server read-ahead reads 0, lob logical reads 0, lob physical reads 0, lob page server reads 0, lob read-ahead reads 0, lob page server read-ahead reads 0.
+
+(0 rows affected)
+
+
+(1 row affected)
+
+ SQL Server Execution Times:
+   CPU time = 187 ms,  elapsed time = 392 ms.
+
+ SQL Server Execution Times:
+   CPU time = 0 ms,  elapsed time = 0 ms.
+SQL Server parse and compile time: 
+   CPU time = 0 ms, elapsed time = 3 ms.
+Table 'HRC_ETL_Runner_Tracker'. Scan count 0, logical reads 1, physical reads 0, page server reads 0, read-ahead reads 0, page server read-ahead reads 0, lob logical reads 0, lob physical reads 0, lob page server reads 0, lob read-ahead reads 0, lob page server read-ahead reads 0.
+Table 'Dim_PlayerHost_SCD'. Scan count 1, logical reads 698, physical reads 0, page server reads 0, read-ahead reads 0, page server read-ahead reads 0, lob logical reads 0, lob physical reads 0, lob page server reads 0, lob read-ahead reads 0, lob page server read-ahead reads 0.
+
+(1 row affected)
+
+
+(1 row affected)
+
+ SQL Server Execution Times:
+   CPU time = 0 ms,  elapsed time = 14 ms.
+
+ SQL Server Execution Times:
+   CPU time = 0 ms,  elapsed time = 0 ms.
+Table 'HRC_Dim_PlayerCreditLimit_History'. Scan count 2, logical reads 312, physical reads 0, page server reads 0, read-ahead reads 323, page server read-ahead reads 0, lob logical reads 0, lob physical reads 0, lob page server reads 0, lob read-ahead reads 0, lob page server read-ahead reads 0.
+Table 'App_Casino'. Scan count 2, logical reads 3, physical reads 0, page server reads 0, read-ahead reads 0, page server read-ahead reads 0, lob logical reads 0, lob physical reads 0, lob page server reads 0, lob read-ahead reads 0, lob page server read-ahead reads 0.
+Table 'Worktable'. Scan count 0, logical reads 0, physical reads 0, page server reads 0, read-ahead reads 0, page server read-ahead reads 0, lob logical reads 0, lob physical reads 0, lob page server reads 0, lob read-ahead reads 0, lob page server read-ahead reads 0.
+Table 'Dim_PlayerCredit_SCD'. Scan count 1, logical reads 2436, physical reads 0, page server reads 0, read-ahead reads 2436, page server read-ahead reads 0, lob logical reads 0, lob physical reads 0, lob page server reads 0, lob read-ahead reads 0, lob page server read-ahead reads 0.
+
+(0 rows affected)
+
+
+(1 row affected)
+
+ SQL Server Execution Times:
+   CPU time = 719 ms,  elapsed time = 1424 ms.
+
+ SQL Server Execution Times:
+   CPU time = 0 ms,  elapsed time = 0 ms.
+SQL Server parse and compile time: 
+   CPU time = 0 ms, elapsed time = 2 ms.
+Table 'HRC_ETL_Runner_Tracker'. Scan count 0, logical reads 1, physical reads 0, page server reads 0, read-ahead reads 0, page server read-ahead reads 0, lob logical reads 0, lob physical reads 0, lob page server reads 0, lob read-ahead reads 0, lob page server read-ahead reads 0.
+Table 'Dim_PlayerCredit_SCD'. Scan count 1, logical reads 2436, physical reads 0, page server reads 0, read-ahead reads 0, page server read-ahead reads 0, lob logical reads 0, lob physical reads 0, lob page server reads 0, lob read-ahead reads 0, lob page server read-ahead reads 0.
+
+(1 row affected)
+
+
+(1 row affected)
+
+ SQL Server Execution Times:
+   CPU time = 31 ms,  elapsed time = 85 ms.
+
+ SQL Server Execution Times:
+   CPU time = 0 ms,  elapsed time = 0 ms.
+Table 'HRC_Dim_PlayerECreditEnrollment_History'. Scan count 6, logical reads 1050, physical reads 0, page server reads 0, read-ahead reads 363, page server read-ahead reads 0, lob logical reads 0, lob physical reads 0, lob page server reads 0, lob read-ahead reads 0, lob page server read-ahead reads 0.
+Table 'App_Casino'. Scan count 2, logical reads 3, physical reads 0, page server reads 0, read-ahead reads 0, page server read-ahead reads 0, lob logical reads 0, lob physical reads 0, lob page server reads 0, lob read-ahead reads 0, lob page server read-ahead reads 0.
+Table 'Worktable'. Scan count 0, logical reads 0, physical reads 0, page server reads 0, read-ahead reads 0, page server read-ahead reads 0, lob logical reads 0, lob physical reads 0, lob page server reads 0, lob read-ahead reads 0, lob page server read-ahead reads 0.
+Table 'Dim_PlayerCreditElectronic_SCD'. Scan count 1, logical reads 2850, physical reads 0, page server reads 0, read-ahead reads 2850, page server read-ahead reads 0, lob logical reads 0, lob physical reads 0, lob page server reads 0, lob read-ahead reads 0, lob page server read-ahead reads 0.
+
+(0 rows affected)
+
+
+(1 row affected)
+
+ SQL Server Execution Times:
+   CPU time = 656 ms,  elapsed time = 1434 ms.
+
+ SQL Server Execution Times:
+   CPU time = 0 ms,  elapsed time = 0 ms.
+SQL Server parse and compile time: 
+   CPU time = 16 ms, elapsed time = 17 ms.
+Table 'HRC_ETL_Runner_Tracker'. Scan count 0, logical reads 1, physical reads 0, page server reads 0, read-ahead reads 0, page server read-ahead reads 0, lob logical reads 0, lob physical reads 0, lob page server reads 0, lob read-ahead reads 0, lob page server read-ahead reads 0.
+Table 'Dim_PlayerCreditElectronic_SCD'. Scan count 1, logical reads 2850, physical reads 0, page server reads 0, read-ahead reads 0, page server read-ahead reads 0, lob logical reads 0, lob physical reads 0, lob page server reads 0, lob read-ahead reads 0, lob page server read-ahead reads 0.
+
+(1 row affected)
+
+
+(1 row affected)
+
+ SQL Server Execution Times:
+   CPU time = 31 ms,  elapsed time = 58 ms.
+
+ SQL Server Execution Times:
+   CPU time = 0 ms,  elapsed time = 0 ms.
+Table 'Fact_PlayerDeviceRatingDay'. Scan count 1, logical reads 0, physical reads 0, page server reads 0, read-ahead reads 0, page server read-ahead reads 0, lob logical reads 7322, lob physical reads 0, lob page server reads 0, lob read-ahead reads 11764, lob page server read-ahead reads 0.
+Table 'Fact_PlayerDeviceRatingDay'. Segment reads 21, segment skipped 98.
+
+
+(1 row affected)
+
+ SQL Server Execution Times:
+   CPU time = 94 ms,  elapsed time = 167 ms.
+
+ SQL Server Execution Times:
+   CPU time = 0 ms,  elapsed time = 0 ms.
+Table 'Fact_PlayerDeviceRatingDay'. Scan count 1, logical reads 3673351, physical reads 49, page server reads 0, read-ahead reads 0, page server read-ahead reads 0, lob logical reads 0, lob physical reads 0, lob page server reads 0, lob read-ahead reads 0, lob page server read-ahead reads 0.
+
+(282203 rows affected)
+
+
+(1 row affected)
+
+ SQL Server Execution Times:
+   CPU time = 9875 ms,  elapsed time = 48672 ms.
+Table 'HRC_Fact_PlayerRedemption_Tran'. Scan count 1, logical reads 0, physical reads 0, page server reads 0, read-ahead reads 0, page server read-ahead reads 0, lob logical reads 451, lob physical reads 5, lob page server reads 0, lob read-ahead reads 0, lob page server read-ahead reads 0.
+Table 'HRC_Fact_PlayerRedemption_Tran'. Segment reads 1, segment skipped 0.
+Table 'App_Casino'. Scan count 6, logical reads 9, physical reads 0, page server reads 0, read-ahead reads 0, page server read-ahead reads 0, lob logical reads 0, lob physical reads 0, lob page server reads 0, lob read-ahead reads 0, lob page server read-ahead reads 0.
+Table 'HRC_Fact_PlayerTableRating_Tran'. Scan count 1, logical reads 0, physical reads 0, page server reads 0, read-ahead reads 0, page server read-ahead reads 0, lob logical reads 14301, lob physical reads 17, lob page server reads 0, lob read-ahead reads 36670, lob page server read-ahead reads 0.
+Table 'HRC_Fact_PlayerTableRating_Tran'. Segment reads 2, segment skipped 0.
+Table 'Dim_PlayerDistanceToCasino_SCD'. Scan count 4, logical reads 28970, physical reads 0, page server reads 0, read-ahead reads 14479, page server read-ahead reads 0, lob logical reads 64996, lob physical reads 143, lob page server reads 0, lob read-ahead reads 123586, lob page server read-ahead reads 0.
+Table 'Dim_PlayerDistanceToCasino_SCD'. Segment reads 28, segment skipped 0.
+Table 'Dim_Player_SCD'. Scan count 4, logical reads 69008, physical reads 0, page server reads 0, read-ahead reads 34495, page server read-ahead reads 0, lob logical reads 51221, lob physical reads 36, lob page server reads 0, lob read-ahead reads 86579, lob page server read-ahead reads 0.
+Table 'Dim_Player_SCD'. Segment reads 14, segment skipped 0.
+Table 'HRC_Dim_TableAttribute_History'. Scan count 2, logical reads 4, physical reads 1, page server reads 0, read-ahead reads 0, page server read-ahead reads 0, lob logical reads 0, lob physical reads 0, lob page server reads 0, lob read-ahead reads 0, lob page server read-ahead reads 0.
+Table 'HRC_Fact_PlayerSlotRating_Tran'. Scan count 1, logical reads 0, physical reads 0, page server reads 0, read-ahead reads 0, page server read-ahead reads 0, lob logical reads 144575, lob physical reads 68, lob page server reads 0, lob read-ahead reads 380915, lob page server read-ahead reads 0.
+Table 'HRC_Fact_PlayerSlotRating_Tran'. Segment reads 16, segment skipped 0.
+Table 'HRC_Dim_SlotAttribute_History'. Scan count 2, logical reads 242, physical reads 0, page server reads 0, read-ahead reads 255, page server read-ahead reads 0, lob logical reads 0, lob physical reads 0, lob page server reads 0, lob read-ahead reads 0, lob page server read-ahead reads 0.
+Table 'Fact_PlayerDeviceRatingDay'. Scan count 0, logical reads 2998605, physical reads 2124, page server reads 0, read-ahead reads 1412, page server read-ahead reads 0, lob logical reads 0, lob physical reads 0, lob page server reads 0, lob read-ahead reads 0, lob page server read-ahead reads 0.
+Table 'Worktable'. Scan count 4, logical reads 1657777, physical reads 0, page server reads 0, read-ahead reads 0, page server read-ahead reads 0, lob logical reads 0, lob physical reads 0, lob page server reads 0, lob read-ahead reads 0, lob page server read-ahead reads 0.
+
+(282203 rows affected)
+
+
+(1 row affected)
+
+ SQL Server Execution Times:
+   CPU time = 50703 ms,  elapsed time = 113258 ms.
+
+ SQL Server Execution Times:
+   CPU time = 0 ms,  elapsed time = 5 ms.
+SQL Server parse and compile time: 
+   CPU time = 641 ms, elapsed time = 53373 ms.
+Table 'HRC_ETL_Runner_Tracker'. Scan count 0, logical reads 1, physical reads 0, page server reads 0, read-ahead reads 0, page server read-ahead reads 0, lob logical reads 0, lob physical reads 0, lob page server reads 0, lob read-ahead reads 0, lob page server read-ahead reads 0.
+Table 'Fact_PlayerDeviceRatingDay'. Scan count 1, logical reads 3793, physical reads 0, page server reads 0, read-ahead reads 0, page server read-ahead reads 0, lob logical reads 0, lob physical reads 0, lob page server reads 0, lob read-ahead reads 0, lob page server read-ahead reads 0.
+
+(1 row affected)
+
+
+(1 row affected)
+
+ SQL Server Execution Times:
+   CPU time = 109 ms,  elapsed time = 128 ms.
+
+ SQL Server Execution Times:
+   CPU time = 0 ms,  elapsed time = 0 ms.
+Table 'App_DeviceManufacturerGroup'. Scan count 1, logical reads 5, physical reads 4, page server reads 0, read-ahead reads 0, page server read-ahead reads 0, lob logical reads 0, lob physical reads 0, lob page server reads 0, lob read-ahead reads 0, lob page server read-ahead reads 0.
+
+(14 rows affected)
+
+
+(1 row affected)
+
+ SQL Server Execution Times:
+   CPU time = 0 ms,  elapsed time = 2 ms.
+Table 'App_DeviceManufacturerGroup'. Scan count 0, logical reads 14, physical reads 0, page server reads 0, read-ahead reads 0, page server read-ahead reads 0, lob logical reads 0, lob physical reads 0, lob page server reads 0, lob read-ahead reads 0, lob page server read-ahead reads 0.
+Table 'HRC_Dim_SlotMFGGroup'. Scan count 2, logical reads 2, physical reads 1, page server reads 0, read-ahead reads 0, page server read-ahead reads 0, lob logical reads 0, lob physical reads 0, lob page server reads 0, lob read-ahead reads 0, lob page server read-ahead reads 0.
+
+(14 rows affected)
+
+
+(1 row affected)
+
+ SQL Server Execution Times:
+   CPU time = 0 ms,  elapsed time = 1 ms.
+
+ SQL Server Execution Times:
+   CPU time = 0 ms,  elapsed time = 1 ms.
+SQL Server parse and compile time: 
+   CPU time = 5 ms, elapsed time = 5 ms.
+Table 'HRC_ETL_Runner_Tracker'. Scan count 0, logical reads 1, physical reads 0, page server reads 0, read-ahead reads 0, page server read-ahead reads 0, lob logical reads 0, lob physical reads 0, lob page server reads 0, lob read-ahead reads 0, lob page server read-ahead reads 0.
+Table 'App_DeviceManufacturerGroup'. Scan count 1, logical reads 5, physical reads 0, page server reads 0, read-ahead reads 0, page server read-ahead reads 0, lob logical reads 0, lob physical reads 0, lob page server reads 0, lob read-ahead reads 0, lob page server read-ahead reads 0.
+
+(1 row affected)
+
+
+(1 row affected)
+
+ SQL Server Execution Times:
+   CPU time = 0 ms,  elapsed time = 2 ms.
+
+ SQL Server Execution Times:
+   CPU time = 0 ms,  elapsed time = 0 ms.
+Table 'App_DeviceGameTypeGroup'. Scan count 1, logical reads 4, physical reads 3, page server reads 0, read-ahead reads 0, page server read-ahead reads 0, lob logical reads 0, lob physical reads 0, lob page server reads 0, lob read-ahead reads 0, lob page server read-ahead reads 0.
+
+(8 rows affected)
+
+
+(1 row affected)
+
+ SQL Server Execution Times:
+   CPU time = 0 ms,  elapsed time = 1 ms.
+Table 'App_DeviceGameTypeGroup'. Scan count 0, logical reads 8, physical reads 0, page server reads 0, read-ahead reads 0, page server read-ahead reads 0, lob logical reads 0, lob physical reads 0, lob page server reads 0, lob read-ahead reads 0, lob page server read-ahead reads 0.
+Table 'HRC_Dim_SlotGameTypeGroup'. Scan count 2, logical reads 2, physical reads 1, page server reads 0, read-ahead reads 0, page server read-ahead reads 0, lob logical reads 0, lob physical reads 0, lob page server reads 0, lob read-ahead reads 0, lob page server read-ahead reads 0.
+
+(8 rows affected)
+
+
+(1 row affected)
+
+ SQL Server Execution Times:
+   CPU time = 0 ms,  elapsed time = 1 ms.
+
+ SQL Server Execution Times:
+   CPU time = 0 ms,  elapsed time = 1 ms.
+SQL Server parse and compile time: 
+   CPU time = 0 ms, elapsed time = 1 ms.
+Table 'HRC_ETL_Runner_Tracker'. Scan count 0, logical reads 1, physical reads 0, page server reads 0, read-ahead reads 0, page server read-ahead reads 0, lob logical reads 0, lob physical reads 0, lob page server reads 0, lob read-ahead reads 0, lob page server read-ahead reads 0.
+Table 'App_DeviceGameTypeGroup'. Scan count 1, logical reads 4, physical reads 0, page server reads 0, read-ahead reads 0, page server read-ahead reads 0, lob logical reads 0, lob physical reads 0, lob page server reads 0, lob read-ahead reads 0, lob page server read-ahead reads 0.
+
+(1 row affected)
+
+
+(1 row affected)
+
+ SQL Server Execution Times:
+   CPU time = 0 ms,  elapsed time = 1 ms.
+
+ SQL Server Execution Times:
+   CPU time = 0 ms,  elapsed time = 0 ms.
+Table 'App_DeviceDenominationGroup'. Scan count 1, logical reads 2, physical reads 1, page server reads 0, read-ahead reads 0, page server read-ahead reads 0, lob logical reads 0, lob physical reads 0, lob page server reads 0, lob read-ahead reads 0, lob page server read-ahead reads 0.
+
+(13 rows affected)
+
+
+(1 row affected)
+
+ SQL Server Execution Times:
+   CPU time = 15 ms,  elapsed time = 0 ms.
+Table 'App_DeviceDenominationGroup'. Scan count 0, logical reads 13, physical reads 0, page server reads 0, read-ahead reads 0, page server read-ahead reads 0, lob logical reads 0, lob physical reads 0, lob page server reads 0, lob read-ahead reads 0, lob page server read-ahead reads 0.
+Table 'HRC_Dim_SlotDenomGroup'. Scan count 2, logical reads 3, physical reads 1, page server reads 0, read-ahead reads 0, page server read-ahead reads 0, lob logical reads 0, lob physical reads 0, lob page server reads 0, lob read-ahead reads 0, lob page server read-ahead reads 0.
+
+(13 rows affected)
+
+
+(1 row affected)
+
+ SQL Server Execution Times:
+   CPU time = 0 ms,  elapsed time = 1 ms.
+
+ SQL Server Execution Times:
+   CPU time = 0 ms,  elapsed time = 1 ms.
+SQL Server parse and compile time: 
+   CPU time = 0 ms, elapsed time = 1 ms.
+Table 'HRC_ETL_Runner_Tracker'. Scan count 0, logical reads 1, physical reads 0, page server reads 0, read-ahead reads 0, page server read-ahead reads 0, lob logical reads 0, lob physical reads 0, lob page server reads 0, lob read-ahead reads 0, lob page server read-ahead reads 0.
+Table 'App_DeviceDenominationGroup'. Scan count 1, logical reads 2, physical reads 0, page server reads 0, read-ahead reads 0, page server read-ahead reads 0, lob logical reads 0, lob physical reads 0, lob page server reads 0, lob read-ahead reads 0, lob page server read-ahead reads 0.
+
+(1 row affected)
+
+
+(1 row affected)
+
+ SQL Server Execution Times:
+   CPU time = 0 ms,  elapsed time = 1 ms.
+
+ SQL Server Execution Times:
+   CPU time = 0 ms,  elapsed time = 0 ms.
+Table 'Fact_PlayerPrize'. Scan count 2, logical reads 4, physical reads 2, page server reads 0, read-ahead reads 0, page server read-ahead reads 0, lob logical reads 368, lob physical reads 0, lob page server reads 0, lob read-ahead reads 596, lob page server read-ahead reads 0.
+Table 'Fact_PlayerPrize'. Segment reads 1, segment skipped 1.
+
+
+(1 row affected)
+
+ SQL Server Execution Times:
+   CPU time = 63 ms,  elapsed time = 142 ms.
+
+ SQL Server Execution Times:
+   CPU time = 0 ms,  elapsed time = 0 ms.
+Table 'Fact_PlayerPrize'. Scan count 1, logical reads 26402, physical reads 0, page server reads 0, read-ahead reads 26385, page server read-ahead reads 0, lob logical reads 0, lob physical reads 0, lob page server reads 0, lob read-ahead reads 0, lob page server read-ahead reads 0.
+
+(3369 rows affected)
+
+
+(1 row affected)
+
+ SQL Server Execution Times:
+   CPU time = 469 ms,  elapsed time = 844 ms.
+Table 'HRC_Fact_PlayerRedemption_Tran'. Scan count 1, logical reads 0, physical reads 0, page server reads 0, read-ahead reads 0, page server read-ahead reads 0, lob logical reads 477, lob physical reads 10, lob page server reads 0, lob read-ahead reads 0, lob page server read-ahead reads 0.
+Table 'HRC_Fact_PlayerRedemption_Tran'. Segment reads 1, segment skipped 0.
+Table 'App_Casino'. Scan count 2, logical reads 3, physical reads 0, page server reads 0, read-ahead reads 0, page server read-ahead reads 0, lob logical reads 0, lob physical reads 0, lob page server reads 0, lob read-ahead reads 0, lob page server read-ahead reads 0.
+Table 'Fact_PlayerPrize'. Scan count 0, logical reads 3451, physical reads 0, page server reads 0, read-ahead reads 0, page server read-ahead reads 0, lob logical reads 0, lob physical reads 0, lob page server reads 0, lob read-ahead reads 0, lob page server read-ahead reads 0.
+Table 'Worktable'. Scan count 1, logical reads 7064, physical reads 0, page server reads 0, read-ahead reads 0, page server read-ahead reads 0, lob logical reads 0, lob physical reads 0, lob page server reads 0, lob read-ahead reads 0, lob page server read-ahead reads 0.
+
+(3369 rows affected)
+
+
+(1 row affected)
+
+ SQL Server Execution Times:
+   CPU time = 93 ms,  elapsed time = 138 ms.
+
+ SQL Server Execution Times:
+   CPU time = 0 ms,  elapsed time = 2 ms.
+SQL Server parse and compile time: 
+   CPU time = 0 ms, elapsed time = 3 ms.
+Table 'HRC_ETL_Runner_Tracker'. Scan count 0, logical reads 1, physical reads 0, page server reads 0, read-ahead reads 0, page server read-ahead reads 0, lob logical reads 0, lob physical reads 0, lob page server reads 0, lob read-ahead reads 0, lob page server read-ahead reads 0.
+Table 'Fact_PlayerPrize'. Scan count 1, logical reads 26402, physical reads 0, page server reads 0, read-ahead reads 0, page server read-ahead reads 0, lob logical reads 0, lob physical reads 0, lob page server reads 0, lob read-ahead reads 0, lob page server read-ahead reads 0.
+
+(1 row affected)
+
+
+(1 row affected)
+
+ SQL Server Execution Times:
+   CPU time = 329 ms,  elapsed time = 605 ms.
+
+ SQL Server Execution Times:
+   CPU time = 0 ms,  elapsed time = 0 ms.
+Table 'HRC_Fact_PlayerValuationScore'. Scan count 1, logical reads 0, physical reads 0, page server reads 0, read-ahead reads 0, page server read-ahead reads 0, lob logical reads 893, lob physical reads 0, lob page server reads 0, lob read-ahead reads 776, lob page server read-ahead reads 0.
+Table 'HRC_Fact_PlayerValuationScore'. Segment reads 1, segment skipped 0.
+Table 'App_CasinoGroup'. Scan count 2, logical reads 5, physical reads 0, page server reads 0, read-ahead reads 0, page server read-ahead reads 0, lob logical reads 0, lob physical reads 0, lob page server reads 0, lob read-ahead reads 0, lob page server read-ahead reads 0.
+Table 'Worktable'. Scan count 0, logical reads 0, physical reads 0, page server reads 0, read-ahead reads 0, page server read-ahead reads 0, lob logical reads 0, lob physical reads 0, lob page server reads 0, lob read-ahead reads 0, lob page server read-ahead reads 0.
+Table 'Fact_PlayerEvaluationCurrent'. Scan count 1, logical reads 27067, physical reads 0, page server reads 0, read-ahead reads 27067, page server read-ahead reads 0, lob logical reads 0, lob physical reads 0, lob page server reads 0, lob read-ahead reads 0, lob page server read-ahead reads 0.
+
+(0 rows affected)
+
+
+(1 row affected)
+
+ SQL Server Execution Times:
+   CPU time = 8171 ms,  elapsed time = 15068 ms.
+
+ SQL Server Execution Times:
+   CPU time = 0 ms,  elapsed time = 1 ms.
+SQL Server parse and compile time: 
+   CPU time = 0 ms, elapsed time = 3 ms.
+Table 'HRC_ETL_Runner_Tracker'. Scan count 0, logical reads 1, physical reads 0, page server reads 0, read-ahead reads 0, page server read-ahead reads 0, lob logical reads 0, lob physical reads 0, lob page server reads 0, lob read-ahead reads 0, lob page server read-ahead reads 0.
+Table 'Fact_PlayerEvaluationCurrent'. Scan count 1, logical reads 1113, physical reads 0, page server reads 0, read-ahead reads 1103, page server read-ahead reads 0, lob logical reads 0, lob physical reads 0, lob page server reads 0, lob read-ahead reads 0, lob page server read-ahead reads 0.
+
+(1 row affected)
+
+
+(1 row affected)
+
+ SQL Server Execution Times:
+   CPU time = 47 ms,  elapsed time = 118 ms.
+
+ SQL Server Execution Times:
+   CPU time = 0 ms,  elapsed time = 0 ms.
+Table 'Fact_DeviceDay'. Scan count 2, logical reads 25896, physical reads 0, page server reads 0, read-ahead reads 25896, page server read-ahead reads 0, lob logical reads 1061, lob physical reads 0, lob page server reads 0, lob read-ahead reads 1674, lob page server read-ahead reads 0.
+Table 'Fact_DeviceDay'. Segment reads 3, segment skipped 20.
+
+
+(1 row affected)
+
+ SQL Server Execution Times:
+   CPU time = 360 ms,  elapsed time = 643 ms.
+
+ SQL Server Execution Times:
+   CPU time = 0 ms,  elapsed time = 0 ms.
+SQL Server parse and compile time: 
+   CPU time = 0 ms, elapsed time = 3 ms.
+Table 'Fact_DeviceDay'. Scan count 1, logical reads 1061499, physical reads 0, page server reads 0, read-ahead reads 1054936, page server read-ahead reads 0, lob logical reads 0, lob physical reads 0, lob page server reads 0, lob read-ahead reads 0, lob page server read-ahead reads 0.
+
+(39423 rows affected)
+
+
+(1 row affected)
+
+ SQL Server Execution Times:
+   CPU time = 11078 ms,  elapsed time = 22587 ms.
+Table 'HRC_Fact_DayMeterHistory'. Scan count 1, logical reads 0, physical reads 0, page server reads 0, read-ahead reads 0, page server read-ahead reads 0, lob logical reads 3418, lob physical reads 12, lob page server reads 0, lob read-ahead reads 4439, lob page server read-ahead reads 0.
+Table 'HRC_Fact_DayMeterHistory'. Segment reads 1, segment skipped 2.
+Table 'App_Casino'. Scan count 2, logical reads 3, physical reads 0, page server reads 0, read-ahead reads 0, page server read-ahead reads 0, lob logical reads 0, lob physical reads 0, lob page server reads 0, lob read-ahead reads 0, lob page server read-ahead reads 0.
+Table 'Fact_DeviceDay'. Scan count 0, logical reads 41730, physical reads 3, page server reads 0, read-ahead reads 0, page server read-ahead reads 0, lob logical reads 0, lob physical reads 0, lob page server reads 0, lob read-ahead reads 0, lob page server read-ahead reads 0.
+Table 'Worktable'. Scan count 1, logical reads 114172, physical reads 0, page server reads 0, read-ahead reads 0, page server read-ahead reads 0, lob logical reads 0, lob physical reads 0, lob page server reads 0, lob read-ahead reads 0, lob page server read-ahead reads 0.
+
+(39423 rows affected)
+
+
+(1 row affected)
+
+ SQL Server Execution Times:
+   CPU time = 1219 ms,  elapsed time = 3296 ms.
+
+ SQL Server Execution Times:
+   CPU time = 0 ms,  elapsed time = 10 ms.
+SQL Server parse and compile time: 
+   CPU time = 0 ms, elapsed time = 4 ms.
+Table 'HRC_ETL_Runner_Tracker'. Scan count 0, logical reads 1, physical reads 0, page server reads 0, read-ahead reads 0, page server read-ahead reads 0, lob logical reads 0, lob physical reads 0, lob page server reads 0, lob read-ahead reads 0, lob page server read-ahead reads 0.
+Table 'Fact_DeviceDay'. Scan count 1, logical reads 1061530, physical reads 2, page server reads 0, read-ahead reads 1057830, page server read-ahead reads 0, lob logical reads 0, lob physical reads 0, lob page server reads 0, lob read-ahead reads 0, lob page server read-ahead reads 0.
+
+(1 row affected)
+
+
+(1 row affected)
+
+ SQL Server Execution Times:
+   CPU time = 10812 ms,  elapsed time = 22980 ms.
+SQL Server parse and compile time: 
+   CPU time = 0 ms, elapsed time = 0 ms.
+
+ SQL Server Execution Times:
+   CPU time = 0 ms,  elapsed time = 0 ms.
+
+Completion time: 2020-10-01T18:23:49.4304470+00:00

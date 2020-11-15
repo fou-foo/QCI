@@ -1,0 +1,548 @@
+﻿
+ SQL Server Execution Times:
+   CPU time = 0 ms,  elapsed time = 0 ms.
+
+ SQL Server Execution Times:
+   CPU time = 0 ms,  elapsed time = 10 ms.
+
+(1 row affected)
+
+
+(1 row affected)
+
+ SQL Server Execution Times:
+   CPU time = 0 ms,  elapsed time = 5 ms.
+START MERGE 1
+
+ SQL Server Execution Times:
+   CPU time = 0 ms,  elapsed time = 0 ms.
+
+ SQL Server Execution Times:
+   CPU time = 0 ms,  elapsed time = 0 ms.
+
+(0 rows affected)
+
+
+(1 row affected)
+
+ SQL Server Execution Times:
+   CPU time = 15 ms,  elapsed time = 53 ms.
+
+ SQL Server Execution Times:
+   CPU time = 0 ms,  elapsed time = 0 ms.
+SQL Server parse and compile time: 
+   CPU time = 0 ms, elapsed time = 2 ms.
+
+(1 row affected)
+
+
+(1 row affected)
+
+ SQL Server Execution Times:
+   CPU time = 0 ms,  elapsed time = 2 ms.
+FINISH MERGE 1
+
+ SQL Server Execution Times:
+   CPU time = 0 ms,  elapsed time = 0 ms.
+START MERGE 2
+
+ SQL Server Execution Times:
+   CPU time = 0 ms,  elapsed time = 0 ms.
+
+ SQL Server Execution Times:
+   CPU time = 0 ms,  elapsed time = 0 ms.
+
+(0 rows affected)
+
+
+(1 row affected)
+
+ SQL Server Execution Times:
+   CPU time = 71813 ms,  elapsed time = 414167 ms.
+
+ SQL Server Execution Times:
+   CPU time = 0 ms,  elapsed time = 1 ms.
+SQL Server parse and compile time: 
+   CPU time = 0 ms, elapsed time = 2 ms.
+
+(1 row affected)
+
+
+(1 row affected)
+
+ SQL Server Execution Times:
+   CPU time = 31 ms,  elapsed time = 32 ms.
+FINISH MERGE 2
+
+ SQL Server Execution Times:
+   CPU time = 0 ms,  elapsed time = 0 ms.
+START MERGE 3
+
+ SQL Server Execution Times:
+   CPU time = 0 ms,  elapsed time = 0 ms.
+
+ SQL Server Execution Times:
+   CPU time = 0 ms,  elapsed time = 0 ms.
+
+(0 rows affected)
+
+
+(1 row affected)
+
+ SQL Server Execution Times:
+   CPU time = 45641 ms,  elapsed time = 290741 ms.
+
+ SQL Server Execution Times:
+   CPU time = 0 ms,  elapsed time = 1 ms.
+SQL Server parse and compile time: 
+   CPU time = 0 ms, elapsed time = 2 ms.
+
+(1 row affected)
+
+
+(1 row affected)
+
+ SQL Server Execution Times:
+   CPU time = 31 ms,  elapsed time = 49 ms.
+FINISH MERGE 3
+
+ SQL Server Execution Times:
+   CPU time = 0 ms,  elapsed time = 0 ms.
+START MERGE 4
+
+ SQL Server Execution Times:
+   CPU time = 0 ms,  elapsed time = 0 ms.
+
+ SQL Server Execution Times:
+   CPU time = 0 ms,  elapsed time = 0 ms.
+
+(0 rows affected)
+
+
+(1 row affected)
+
+ SQL Server Execution Times:
+   CPU time = 13875 ms,  elapsed time = 24117 ms.
+
+ SQL Server Execution Times:
+   CPU time = 0 ms,  elapsed time = 1 ms.
+SQL Server parse and compile time: 
+   CPU time = 0 ms, elapsed time = 2 ms.
+
+(1 row affected)
+
+
+(1 row affected)
+
+ SQL Server Execution Times:
+   CPU time = 31 ms,  elapsed time = 31 ms.
+FINISH MERGE 4
+
+ SQL Server Execution Times:
+   CPU time = 0 ms,  elapsed time = 0 ms.
+START MERGE 5
+
+ SQL Server Execution Times:
+   CPU time = 0 ms,  elapsed time = 0 ms.
+
+ SQL Server Execution Times:
+   CPU time = 0 ms,  elapsed time = 0 ms.
+
+(0 rows affected)
+
+
+(1 row affected)
+
+ SQL Server Execution Times:
+   CPU time = 188 ms,  elapsed time = 289 ms.
+
+ SQL Server Execution Times:
+   CPU time = 0 ms,  elapsed time = 0 ms.
+SQL Server parse and compile time: 
+   CPU time = 0 ms, elapsed time = 1 ms.
+
+(1 row affected)
+
+
+(1 row affected)
+
+ SQL Server Execution Times:
+   CPU time = 0 ms,  elapsed time = 20 ms.
+FINISH MERGE 5
+
+ SQL Server Execution Times:
+   CPU time = 0 ms,  elapsed time = 0 ms.
+START MERGE 6
+
+ SQL Server Execution Times:
+   CPU time = 0 ms,  elapsed time = 0 ms.
+
+ SQL Server Execution Times:
+   CPU time = 0 ms,  elapsed time = 0 ms.
+
+(0 rows affected)
+
+
+(1 row affected)
+
+ SQL Server Execution Times:
+   CPU time = 671 ms,  elapsed time = 1030 ms.
+
+ SQL Server Execution Times:
+   CPU time = 0 ms,  elapsed time = 0 ms.
+SQL Server parse and compile time: 
+   CPU time = 0 ms, elapsed time = 2 ms.
+
+(1 row affected)
+
+
+(1 row affected)
+
+ SQL Server Execution Times:
+   CPU time = 32 ms,  elapsed time = 61 ms.
+FINISH MERGE 6
+
+ SQL Server Execution Times:
+   CPU time = 0 ms,  elapsed time = 0 ms.
+START MERGE 7
+
+ SQL Server Execution Times:
+   CPU time = 0 ms,  elapsed time = 0 ms.
+
+ SQL Server Execution Times:
+   CPU time = 0 ms,  elapsed time = 0 ms.
+
+(0 rows affected)
+
+
+(1 row affected)
+
+ SQL Server Execution Times:
+   CPU time = 625 ms,  elapsed time = 1062 ms.
+
+ SQL Server Execution Times:
+   CPU time = 0 ms,  elapsed time = 0 ms.
+SQL Server parse and compile time: 
+   CPU time = 0 ms, elapsed time = 1 ms.
+
+(1 row affected)
+
+
+(1 row affected)
+
+ SQL Server Execution Times:
+   CPU time = 31 ms,  elapsed time = 59 ms.
+FINISH MERGE 7
+
+ SQL Server Execution Times:
+   CPU time = 0 ms,  elapsed time = 0 ms.
+START MERGE 8
+
+ SQL Server Execution Times:
+   CPU time = 0 ms,  elapsed time = 0 ms.
+
+ SQL Server Execution Times:
+   CPU time = 0 ms,  elapsed time = 0 ms.
+
+
+(1 row affected)
+
+ SQL Server Execution Times:
+   CPU time = 47 ms,  elapsed time = 471 ms.
+
+ SQL Server Execution Times:
+   CPU time = 0 ms,  elapsed time = 0 ms.
+SQL Server parse and compile time: 
+   CPU time = 0 ms, elapsed time = 2 ms.
+
+(282203 rows affected)
+
+
+(1 row affected)
+
+ SQL Server Execution Times:
+   CPU time = 9640 ms,  elapsed time = 31188 ms.
+
+(282203 rows affected)
+
+
+(1 row affected)
+
+ SQL Server Execution Times:
+   CPU time = 35063 ms,  elapsed time = 67523 ms.
+
+ SQL Server Execution Times:
+   CPU time = 0 ms,  elapsed time = 5 ms.
+SQL Server parse and compile time: 
+   CPU time = 2125 ms, elapsed time = 7157 ms.
+
+(1 row affected)
+
+
+(1 row affected)
+
+ SQL Server Execution Times:
+   CPU time = 4094 ms,  elapsed time = 5313 ms.
+FINISH MERGE 8
+
+ SQL Server Execution Times:
+   CPU time = 0 ms,  elapsed time = 0 ms.
+START MERGE 9
+
+ SQL Server Execution Times:
+   CPU time = 0 ms,  elapsed time = 0 ms.
+
+ SQL Server Execution Times:
+   CPU time = 0 ms,  elapsed time = 0 ms.
+
+(14 rows affected)
+
+
+(1 row affected)
+
+ SQL Server Execution Times:
+   CPU time = 0 ms,  elapsed time = 13 ms.
+
+(14 rows affected)
+
+
+(1 row affected)
+
+ SQL Server Execution Times:
+   CPU time = 0 ms,  elapsed time = 4 ms.
+
+ SQL Server Execution Times:
+   CPU time = 0 ms,  elapsed time = 4 ms.
+SQL Server parse and compile time: 
+   CPU time = 0 ms, elapsed time = 1 ms.
+
+(1 row affected)
+
+
+(1 row affected)
+
+ SQL Server Execution Times:
+   CPU time = 0 ms,  elapsed time = 4 ms.
+FINISH MERGE 9
+
+ SQL Server Execution Times:
+   CPU time = 0 ms,  elapsed time = 0 ms.
+START MERGE 10
+
+ SQL Server Execution Times:
+   CPU time = 0 ms,  elapsed time = 0 ms.
+
+ SQL Server Execution Times:
+   CPU time = 0 ms,  elapsed time = 0 ms.
+
+(8 rows affected)
+
+
+(1 row affected)
+
+ SQL Server Execution Times:
+   CPU time = 0 ms,  elapsed time = 4 ms.
+
+(8 rows affected)
+
+
+(1 row affected)
+
+ SQL Server Execution Times:
+   CPU time = 0 ms,  elapsed time = 4 ms.
+
+ SQL Server Execution Times:
+   CPU time = 0 ms,  elapsed time = 4 ms.
+SQL Server parse and compile time: 
+   CPU time = 0 ms, elapsed time = 9 ms.
+
+(1 row affected)
+
+
+(1 row affected)
+
+ SQL Server Execution Times:
+   CPU time = 0 ms,  elapsed time = 5 ms.
+FINISH MERGE 10
+
+ SQL Server Execution Times:
+   CPU time = 0 ms,  elapsed time = 0 ms.
+START MERGE 11
+
+ SQL Server Execution Times:
+   CPU time = 0 ms,  elapsed time = 0 ms.
+
+ SQL Server Execution Times:
+   CPU time = 0 ms,  elapsed time = 0 ms.
+
+(13 rows affected)
+
+
+(1 row affected)
+
+ SQL Server Execution Times:
+   CPU time = 0 ms,  elapsed time = 4 ms.
+
+(13 rows affected)
+
+
+(1 row affected)
+
+ SQL Server Execution Times:
+   CPU time = 0 ms,  elapsed time = 4 ms.
+
+ SQL Server Execution Times:
+   CPU time = 0 ms,  elapsed time = 4 ms.
+SQL Server parse and compile time: 
+   CPU time = 0 ms, elapsed time = 13 ms.
+
+(1 row affected)
+
+
+(1 row affected)
+
+ SQL Server Execution Times:
+   CPU time = 0 ms,  elapsed time = 4 ms.
+FINISH MERGE 11
+
+ SQL Server Execution Times:
+   CPU time = 0 ms,  elapsed time = 0 ms.
+START MERGE 12
+
+ SQL Server Execution Times:
+   CPU time = 0 ms,  elapsed time = 0 ms.
+
+ SQL Server Execution Times:
+   CPU time = 0 ms,  elapsed time = 0 ms.
+
+
+(1 row affected)
+
+ SQL Server Execution Times:
+   CPU time = 0 ms,  elapsed time = 0 ms.
+
+ SQL Server Execution Times:
+   CPU time = 0 ms,  elapsed time = 0 ms.
+
+(3369 rows affected)
+
+
+(1 row affected)
+
+ SQL Server Execution Times:
+   CPU time = 93 ms,  elapsed time = 206 ms.
+
+(3369 rows affected)
+
+
+(1 row affected)
+
+ SQL Server Execution Times:
+   CPU time = 94 ms,  elapsed time = 167 ms.
+
+ SQL Server Execution Times:
+   CPU time = 0 ms,  elapsed time = 5 ms.
+SQL Server parse and compile time: 
+   CPU time = 94 ms, elapsed time = 240 ms.
+
+(1 row affected)
+
+
+(1 row affected)
+
+ SQL Server Execution Times:
+   CPU time = 31 ms,  elapsed time = 43 ms.
+FINISH MERGE 12
+
+ SQL Server Execution Times:
+   CPU time = 0 ms,  elapsed time = 0 ms.
+START MERGE 13
+
+ SQL Server Execution Times:
+   CPU time = 0 ms,  elapsed time = 0 ms.
+
+ SQL Server Execution Times:
+   CPU time = 0 ms,  elapsed time = 0 ms.
+
+(0 rows affected)
+
+
+(1 row affected)
+
+ SQL Server Execution Times:
+   CPU time = 8156 ms,  elapsed time = 13210 ms.
+
+ SQL Server Execution Times:
+   CPU time = 0 ms,  elapsed time = 1 ms.
+SQL Server parse and compile time: 
+   CPU time = 0 ms, elapsed time = 1 ms.
+
+(1 row affected)
+
+
+(1 row affected)
+
+ SQL Server Execution Times:
+   CPU time = 16 ms,  elapsed time = 52 ms.
+FINISH MERGE 13
+
+ SQL Server Execution Times:
+   CPU time = 0 ms,  elapsed time = 0 ms.
+START MERGE 14
+
+ SQL Server Execution Times:
+   CPU time = 0 ms,  elapsed time = 0 ms.
+
+ SQL Server Execution Times:
+   CPU time = 0 ms,  elapsed time = 0 ms.
+
+
+(1 row affected)
+
+ SQL Server Execution Times:
+   CPU time = 250 ms,  elapsed time = 772 ms.
+
+ SQL Server Execution Times:
+   CPU time = 0 ms,  elapsed time = 0 ms.
+SQL Server parse and compile time: 
+   CPU time = 0 ms, elapsed time = 4 ms.
+
+(39423 rows affected)
+
+
+(1 row affected)
+
+ SQL Server Execution Times:
+   CPU time = 1453 ms,  elapsed time = 4557 ms.
+
+(39423 rows affected)
+
+
+(1 row affected)
+
+ SQL Server Execution Times:
+   CPU time = 1719 ms,  elapsed time = 4394 ms.
+
+ SQL Server Execution Times:
+   CPU time = 0 ms,  elapsed time = 1 ms.
+SQL Server parse and compile time: 
+   CPU time = 766 ms, elapsed time = 2137 ms.
+
+(1 row affected)
+
+
+(1 row affected)
+
+ SQL Server Execution Times:
+   CPU time = 453 ms,  elapsed time = 714 ms.
+FINISH MERGE 14
+
+ SQL Server Execution Times:
+   CPU time = 0 ms,  elapsed time = 0 ms.
+SQL Server parse and compile time: 
+   CPU time = 0 ms, elapsed time = 0 ms.
+
+ SQL Server Execution Times:
+   CPU time = 0 ms,  elapsed time = 0 ms.
+
+Completion time: 2020-10-12T02:41:39.2248200-05:00
